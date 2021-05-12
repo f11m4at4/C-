@@ -140,8 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Array.cpp" />
+    <ClCompile Include="Auto.cpp" />
     <ClCompile Include="Coding.cpp" />
+    <ClCompile Include="DefaultArgu.cpp" />
+    <ClCompile Include="Function.cpp" />
     <ClCompile Include="Pointer.cpp" />
+    <ClCompile Include="Struct.cpp" />
+    <ClCompile Include="ValueRef.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
