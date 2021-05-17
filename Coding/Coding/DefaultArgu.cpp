@@ -19,7 +19,7 @@ int* AAA()
 	return &a;
 }
 
-int main()
+int mainDefault()
 {
 	float r = Plus(10);
 	cout << r << endl;

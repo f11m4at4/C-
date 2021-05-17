@@ -141,12 +141,19 @@
   <ItemGroup>
     <ClCompile Include="Array.cpp" />
     <ClCompile Include="Auto.cpp" />
+    <ClCompile Include="Calculator.cpp" />
     <ClCompile Include="Coding.cpp" />
     <ClCompile Include="DefaultArgu.cpp" />
     <ClCompile Include="Function.cpp" />
+    <ClCompile Include="Overloading.cpp" />
     <ClCompile Include="Pointer.cpp" />
+    <ClCompile Include="PreDeclare.cpp" />
+    <ClCompile Include="Preprocessing.cpp" />
     <ClCompile Include="Struct.cpp" />
     <ClCompile Include="ValueRef.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Calculator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
